@@ -74,6 +74,7 @@
 #include "generators/Blit.cpp"
 #include "generators/BlitSaw.cpp"
 #include "generators/BlitSquare.cpp"
+#include "generators/FileLoop.cpp"
 #include "generators/Envelope.cpp"
 #include "generators/Granulate.cpp"
 #include "generators/Noise.cpp"

@@ -68,6 +68,7 @@
 #include "generators/Blit.h"
 #include "generators/BlitSaw.h"
 #include "generators/BlitSquare.h"
+#include "generators/FileLoop.h"
 #include "generators/Envelope.h"
 #include "generators/Granulate.h"
 #include "generators/Noise.h"
