@@ -44,8 +44,8 @@
   ==============================================================================
 */
 
-#ifndef __STK_STKHEADER__
-#define __STK_STKHEADER__
+#ifndef __STK_CORE_HEADER__
+#define __STK_CORE_HEADER__
 
 #include "../juce_core/juce_core.h"
 
@@ -91,4 +91,4 @@
  #pragma warning (pop)
 #endif
 
-#endif   // __STK_STKHEADER__
+#endif   // __STK_CORE_HEADER__
