@@ -9,12 +9,9 @@
 
   where <name> is the string used in the SKINI stream.
 
-  by Perry R. Cook, 1995-2011.
+  by Perry R. Cook, 1995-2012.
 */
 /*********************************************************/
-
-#ifndef __SKINI_MSG__
-#define __SKINI_MSG__
 
 namespace stk {
 
@@ -130,5 +127,3 @@ namespace stk {
 #define __SK_SINGER_VibFreq_         __SK_Expression_
 
 } // stk namespace
-
-#endif // __SKINI_MSG__

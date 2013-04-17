@@ -1,5 +1,3 @@
-#ifndef __SKINI_TBL__
-#define __SKINI_TBL__
 
 #include "SKINI.msg"
 
@@ -135,5 +133,3 @@ struct SkiniSpec skini_msgs[__SK_MaxMsgTypes_] =
 /*************************************************************************/
 
 } // stk namespace
-
-#endif // __SKINI_TBL__

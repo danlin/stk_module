@@ -17,7 +17,7 @@ namespace stk {
     A non-interpolating delay line is typically used in fixed
     delay-length applications, such as for reverberation.
 
-    by Perry R. Cook and Gary P. Scavone, 1995-2011.
+    by Perry R. Cook and Gary P. Scavone, 1995-2012.
 */
 /***************************************************/
 
@@ -211,6 +211,6 @@ inline StkFrames& TapDelay :: tick( StkFrames& iFrames, StkFrames& oFrames, unsi
   return iFrames;
 }
 
-} // stk namespace
-
 #endif
+
+} // stk namespace
