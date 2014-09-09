@@ -1,7 +1,7 @@
 {
   "id":             "stk_generators_extra",
   "name":           "STK Extra Generators",
-  "version":        "4.4.4",
+  "version":        "4.5.0",
   "description":    "STK Library: \"singing\" looped soundfile, periodic/random modulator",
   "website":        "https://ccrma.stanford.edu/software/stk",
   "license":        "Open Source https://ccrma.stanford.edu/software/stk/faq.html",

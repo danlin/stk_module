@@ -1,7 +1,7 @@
 {
   "id":             "stk_generators",
   "name":           "STK Generators",
-  "version":        "4.4.4",
+  "version":        "4.5.0",
   "description":    "STK Library: sinusoid oscillator, noise, granular synthesis, file looping / oscillator, linear line envelope, band-limited square wave, band-limited sawtooth wave, band-limited impulse train, asymptotic curve envelope, ADSR envelope",
   "website":        "https://ccrma.stanford.edu/software/stk",
   "license":        "Open Source https://ccrma.stanford.edu/software/stk/faq.html",

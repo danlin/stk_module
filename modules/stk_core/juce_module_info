@@ -1,7 +1,7 @@
 {
   "id":             "stk_core",
   "name":           "STK Library",
-  "version":        "4.4.4",
+  "version":        "4.5.0",
   "description":    "STK Library for audio sysnthesis and effects",
   "website":        "https://ccrma.stanford.edu/software/stk",
   "license":        "Open Source https://ccrma.stanford.edu/software/stk/faq.html",
