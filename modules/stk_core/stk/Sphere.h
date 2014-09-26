@@ -13,11 +13,7 @@ namespace stk {
     This class implements a spherical ball with
     radius, mass, position, and velocity parameters.
 
-<<<<<<< HEAD:stk/Sphere.h
-    by Perry R. Cook, 1995-2012.
-=======
     by Perry R. Cook, 1995--2014.
->>>>>>> split_modules:modules/stk_core/stk/Sphere.h
 */
 /***************************************************/
 

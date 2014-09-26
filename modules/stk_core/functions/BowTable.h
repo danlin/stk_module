@@ -15,11 +15,7 @@ namespace stk {
     (1986).  The output is an instantaneous
     reflection coefficient value.
 
-<<<<<<< HEAD:stk/BowTable.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/functions/BowTable.h
 */
 /***************************************************/
 

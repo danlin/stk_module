@@ -24,11 +24,7 @@ namespace stk {
     type, the data type will automatically be modified.  Compressed
     data types are not supported.
 
-<<<<<<< HEAD:stk/FileWrite.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/io/FileWrite.h
 */
 /***************************************************/
 

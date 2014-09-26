@@ -40,11 +40,7 @@ namespace stk {
     STK WWW site: http://ccrma.stanford.edu/software/stk/
 
     The Synthesis ToolKit in C++ (STK)
-<<<<<<< HEAD:stk/Stk.h
-    Copyright (c) 1995-2012 Perry R. Cook and Gary P. Scavone
-=======
     Copyright (c) 1995--2014 Perry R. Cook and Gary P. Scavone
->>>>>>> split_modules:modules/stk_core/stk/Stk.h
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation files
@@ -269,11 +265,7 @@ protected:
     Possible future improvements in this class could include functions
     to convert to and return other data types.
 
-<<<<<<< HEAD:stk/Stk.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/stk/Stk.h
 */
 /***************************************************/
 

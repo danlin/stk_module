@@ -12,11 +12,7 @@ namespace stk {
     This class provides common functionality for a variety of audio
     data input subclasses.
 
-<<<<<<< HEAD:stk/WvIn.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/io/WvIn.h
 */
 /***************************************************/
 

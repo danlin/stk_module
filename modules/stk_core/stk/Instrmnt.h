@@ -12,11 +12,7 @@ namespace stk {
   This class provides a common interface for
   all STK instruments.
 
-<<<<<<< HEAD:stk/Instrmnt.h
-  by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
   by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/stk/Instrmnt.h
 */
 /***************************************************/
 

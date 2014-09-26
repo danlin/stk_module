@@ -12,11 +12,7 @@ namespace stk {
 
     This class implements a three-dimensional vector.
 
-<<<<<<< HEAD:stk/Vector3D.h
-    by Perry R. Cook, 1995-2012.
-=======
     by Perry R. Cook, 1995--2014.
->>>>>>> split_modules:modules/stk_core/stk/Vector3D.h
 */
 /***************************************************/
 

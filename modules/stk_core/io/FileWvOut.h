@@ -25,11 +25,7 @@ namespace stk {
     Currently, FileWvOut is non-interpolating and the output rate is
     always Stk::sampleRate().
 
-<<<<<<< HEAD:stk/FileWvOut.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/io/FileWvOut.h
 */
 /***************************************************/
 

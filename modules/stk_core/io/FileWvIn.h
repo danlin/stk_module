@@ -35,11 +35,7 @@ namespace stk {
     See the FileRead class for a description of the supported audio
     file formats.
 
-<<<<<<< HEAD:stk/FileWvIn.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_core/io/FileWvIn.h
 */
 /***************************************************/
 

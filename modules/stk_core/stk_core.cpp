@@ -57,11 +57,7 @@
 // and your header search path must make it accessible to the module's files.
 #include "AppConfig.h"
 
-<<<<<<< HEAD:stk.cpp
-#include "stk.h"
-=======
 #include "stk_core.h"
->>>>>>> split_modules:modules/stk_core/stk_core.cpp
 
 // stops a warning with clang
 #ifdef __clang__
@@ -73,84 +69,6 @@
  #pragma warning (disable: 4127 4702 4244 4305 4100 4996 4309)
 #endif
 
-<<<<<<< HEAD:stk.cpp
-#include "stk/ADSR.cpp"
-#include "stk/Asymp.cpp"
-#include "stk/BandedWG.cpp"
-#include "stk/BeeThree.cpp"
-#include "stk/BiQuad.cpp"
-#include "stk/Blit.cpp"
-#include "stk/BlitSaw.cpp"
-#include "stk/BlitSquare.cpp"
-#include "stk/BlowBotl.cpp"
-#include "stk/BlowHole.cpp"
-#include "stk/Bowed.cpp"
-#include "stk/Brass.cpp"
-#include "stk/Chorus.cpp"
-#include "stk/Clarinet.cpp"
-#include "stk/Delay.cpp"
-#include "stk/DelayA.cpp"
-#include "stk/DelayL.cpp"
-#include "stk/Drummer.cpp"
-#include "stk/Echo.cpp"
-#include "stk/Envelope.cpp"
-#include "stk/FileLoop.cpp"
-#include "stk/FileRead.cpp"
-#include "stk/FileWrite.cpp"
-#include "stk/FileWvIn.cpp"
-#include "stk/FileWvOut.cpp"
-#include "stk/Fir.cpp"
-#include "stk/Flute.cpp"
-#include "stk/FM.cpp"
-#include "stk/FMVoices.cpp"
-#include "stk/FormSwep.cpp"
-#include "stk/FreeVerb.cpp"
-#include "stk/Granulate.cpp"
-#include "stk/Guitar.cpp"
-#include "stk/HevyMetl.cpp"
-#include "stk/Iir.cpp"
-#include "stk/JCRev.cpp"
-#include "stk/LentPitShift.cpp"
-#include "stk/Mandolin.cpp"
-#include "stk/Mesh2D.cpp"
-#include "stk/MidiFileIn.cpp"
-#include "stk/Modal.cpp"
-#include "stk/ModalBar.cpp"
-#include "stk/Modulate.cpp"
-#include "stk/Moog.cpp"
-#include "stk/Noise.cpp"
-#include "stk/NRev.cpp"
-#include "stk/OnePole.cpp"
-#include "stk/OneZero.cpp"
-#include "stk/PercFlut.cpp"
-#include "stk/Phonemes.cpp"
-#include "stk/PitShift.cpp"
-#include "stk/Plucked.cpp"
-#include "stk/PoleZero.cpp"
-#include "stk/PRCRev.cpp"
-#include "stk/Resonate.cpp"
-#include "stk/Rhodey.cpp"
-#include "stk/Sampler.cpp"
-#include "stk/Saxofony.cpp"
-#include "stk/Shakers.cpp"
-#include "stk/Simple.cpp"
-#include "stk/SineWave.cpp"
-#include "stk/SingWave.cpp"
-#include "stk/Sitar.cpp"
-#include "stk/Skini.cpp"
-#include "stk/Sphere.cpp"
-#include "stk/StifKarp.cpp"
-#include "stk/Stk.cpp"
-#include "stk/TapDelay.cpp"
-#include "stk/TubeBell.cpp"
-#include "stk/Twang.cpp"
-#include "stk/TwoPole.cpp"
-#include "stk/TwoZero.cpp"
-#include "stk/Voicer.cpp"
-#include "stk/VoicForm.cpp"
-#include "stk/Whistle.cpp"
-#include "stk/Wurley.cpp"
-=======
 #include "stk/Phonemes.cpp"
 #include "stk/Sphere.cpp"
 #include "stk/Stk.cpp"
@@ -160,7 +78,7 @@
 #include "io/FileWrite.cpp"
 #include "io/FileWvIn.cpp"
 #include "io/FileWvOut.cpp"
->>>>>>> split_modules:modules/stk_core/stk_core.cpp
+
 
 #if JUCE_MSVC
  #pragma warning (pop)
