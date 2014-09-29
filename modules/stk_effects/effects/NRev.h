@@ -18,11 +18,7 @@ namespace stk {
     another allpass in series, followed by two allpass filters in
     parallel with corresponding right and left outputs.
 
-<<<<<<< HEAD:stk/NRev.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_effects/effects/NRev.h
 */
 /***************************************************/
 

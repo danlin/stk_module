@@ -6,11 +6,7 @@
     modulations to give a nice, natural human
     modulation function.
 
-<<<<<<< HEAD:stk/Modulate.cpp
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators_extra/generators/Modulate.cpp
 */
 /***************************************************/
 

@@ -19,11 +19,7 @@ namespace stk {
     the overloaded one that takes an StkFrames object for
     multi-channel and/or multi-frame data.
 
-<<<<<<< HEAD:stk/FileLoop.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators/generators/FileLoop.h
 */
 /***************************************************/
 

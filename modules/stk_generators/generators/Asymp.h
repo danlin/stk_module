@@ -26,11 +26,7 @@ namespace stk {
     to \e keyOn and \e keyOff messages by ramping to
     1.0 on keyOn and to 0.0 on keyOff.
 
-<<<<<<< HEAD:stk/Asymp.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators/generators/Asymp.h
 */
 /***************************************************/
 

@@ -9,11 +9,7 @@
     the ADSR::RELEASE state.  All rate, target and level settings must
     be non-negative.  All time settings must be positive.
 
-<<<<<<< HEAD:stk/ADSR.cpp
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators/generators/ADSR.cpp
 */
 /***************************************************/
 

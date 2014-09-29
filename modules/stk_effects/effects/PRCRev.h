@@ -17,11 +17,7 @@ namespace stk {
     allpass and comb delay filters.  This class implements two series
     allpass units and two parallel comb filters.
 
-<<<<<<< HEAD:stk/PRCRev.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_effects/effects/PRCRev.h
 */
 /***************************************************/
 

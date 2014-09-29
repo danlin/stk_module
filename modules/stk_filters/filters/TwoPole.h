@@ -13,11 +13,7 @@ namespace stk {
     provided for creating a resonance in the frequency response while
     maintaining a nearly constant filter gain.
 
-<<<<<<< HEAD:stk/TwoPole.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_filters/filters/TwoPole.h
 */
 /***************************************************/
 

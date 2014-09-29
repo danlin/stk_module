@@ -14,11 +14,7 @@ namespace stk {
     This class implements a chorus effect.  It takes a monophonic
     input signal and produces a stereo output signal.
 
-<<<<<<< HEAD:stk/Chorus.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_effects/effects/Chorus.h
 */
 /***************************************************/
 

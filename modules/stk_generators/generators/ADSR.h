@@ -17,11 +17,7 @@ namespace stk {
     be non-negative.  All time settings are in seconds and must be
     positive.
 
-<<<<<<< HEAD:stk/ADSR.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators/generators/ADSR.h
 */
 /***************************************************/
 

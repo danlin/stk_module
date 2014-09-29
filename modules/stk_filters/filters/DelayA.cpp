@@ -14,11 +14,7 @@
     minimum delay possible in this implementation is limited to a
     value of 0.5.
 
-<<<<<<< HEAD:stk/DelayA.cpp
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_filters/filters/DelayA.cpp
 */
 /***************************************************/
 

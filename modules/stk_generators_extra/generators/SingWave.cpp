@@ -9,11 +9,7 @@
     Within STK, it is used as an excitation source for other
     instruments.
 
-<<<<<<< HEAD:stk/SingWave.cpp
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators_extra/generators/SingWave.cpp
 */
 /***************************************************/
 

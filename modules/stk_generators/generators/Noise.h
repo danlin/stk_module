@@ -14,11 +14,7 @@ namespace stk {
     C rand() function.  The quality of the rand()
     function varies from one OS to another.
 
-<<<<<<< HEAD:stk/Noise.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_generators/generators/Noise.h
 */
 /***************************************************/
 

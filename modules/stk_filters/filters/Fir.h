@@ -23,11 +23,7 @@ namespace stk {
     This structure results in one extra multiply per computed sample,
     but allows easy control of the overall filter gain.
 
-<<<<<<< HEAD:stk/Fir.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_filters/filters/Fir.h
 */
 /***************************************************/
 

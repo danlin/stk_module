@@ -24,11 +24,7 @@ namespace stk {
     one-pole lowpass filters have been added inside
     the feedback comb filters.
 
-<<<<<<< HEAD:stk/JCRev.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_effects/effects/JCRev.h
 */
 /***************************************************/
 

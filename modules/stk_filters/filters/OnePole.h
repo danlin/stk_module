@@ -13,11 +13,7 @@ namespace stk {
     provided for setting the pole position along the real axis of the
     z-plane while maintaining a constant peak filter gain.
 
-<<<<<<< HEAD:stk/OnePole.h
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_filters/filters/OnePole.h
 */
 /***************************************************/
 

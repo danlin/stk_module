@@ -10,11 +10,7 @@
     A non-interpolating delay line is typically used in fixed
     delay-length applications, such as for reverberation.
 
-<<<<<<< HEAD:stk/TapDelay.cpp
-    by Perry R. Cook and Gary P. Scavone, 1995-2012.
-=======
     by Perry R. Cook and Gary P. Scavone, 1995--2014.
->>>>>>> split_modules:modules/stk_filters/filters/TapDelay.cpp
 */
 /***************************************************/
 
