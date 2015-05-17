@@ -47,8 +47,8 @@
 #ifndef __STK_EFFECTS_HEADER__
 #define __STK_EFFECTS_HEADER__
 
-#include "../juce_core/juce_core.h"
-#include "../stk_core/stk_core.h"
+#include "juce_core/juce_core.h"
+#include "stk_core/stk_core.h"
 
 #if JUCE_LITTLE_ENDIAN && ! defined (__LITTLE_ENDIAN__)
  #define __LITTLE_ENDIAN__
