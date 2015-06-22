@@ -1,6 +1,8 @@
 stk_module
 ==========
 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=danlin&url=https://github.com/danlin/stk_module&tags=stk_module&category=software)
+
 JUCE module wrapper for the STK library.
 
 This wrapper has all the real-time classes (audio-in, threading, sockets etc.) removed to reduce external dependancies and because JUCE provides all of this functionality.
