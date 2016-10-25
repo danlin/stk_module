@@ -44,6 +44,29 @@
   ==============================================================================
 */
 
+/*******************************************************************************
+ The block below describes the properties of this module, and is read by
+ the Projucer to automatically generate project code that uses it.
+ For details about the syntax and how to create or use a module, see the
+ JUCE Module Format.txt file.
+
+
+ BEGIN_JUCE_MODULE_DECLARATION
+
+  ID:               stk_filters
+  vendor:           danlin
+  version:          4.5.0
+  name:             STK Filters
+  description:      STK Library: two-pole filter, two-zero filter, non-interpolating tapped delay line, one-pole, one-zero filter, one-zero filter, one-pole filter, general infinite impulse response filter, sweepable formant filter, general finite impulse response filter, linear interpolating delay line, allpass interpolating delay line, non-interpolating delay line, biquad (two-pole, two-zero) filter.
+  website:          https://ccrma.stanford.edu/software/stk
+  license:          Open Source https://ccrma.stanford.edu/software/stk/faq.html
+
+  dependencies:     juce_core stk_core
+
+ END_JUCE_MODULE_DECLARATION
+
+*******************************************************************************/
+
 #ifndef __STK_FILTERS_HEADER__
 #define __STK_FILTERS_HEADER__
 

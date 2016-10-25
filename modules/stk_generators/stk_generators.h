@@ -44,6 +44,29 @@
   ==============================================================================
 */
 
+/*******************************************************************************
+ The block below describes the properties of this module, and is read by
+ the Projucer to automatically generate project code that uses it.
+ For details about the syntax and how to create or use a module, see the
+ JUCE Module Format.txt file.
+
+
+ BEGIN_JUCE_MODULE_DECLARATION
+
+  ID:               stk_generators
+  vendor:           danlin
+  version:          4.5.0
+  name:             STK Generators
+  description:      STK Library: sinusoid oscillator, noise, granular synthesis, file looping / oscillator, linear line envelope, band-limited square wave, band-limited sawtooth wave, band-limited impulse train, asymptotic curve envelope, ADSR envelope.
+  website:          https://ccrma.stanford.edu/software/stk
+  license:          Open Source https://ccrma.stanford.edu/software/stk/faq.html
+
+  dependencies:     juce_core stk_core
+
+ END_JUCE_MODULE_DECLARATION
+
+*******************************************************************************/
+
 #ifndef __STK_GENERATORS_HEADER__
 #define __STK_GENERATORS_HEADER__
 

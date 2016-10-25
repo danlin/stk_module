@@ -44,6 +44,29 @@
   ==============================================================================
 */
 
+/*******************************************************************************
+ The block below describes the properties of this module, and is read by
+ the Projucer to automatically generate project code that uses it.
+ For details about the syntax and how to create or use a module, see the
+ JUCE Module Format.txt file.
+
+
+ BEGIN_JUCE_MODULE_DECLARATION
+
+  ID:               stk_core
+  vendor:           danlin
+  version:          4.5.0
+  name:             STK Library
+  description:      STK Library for audio sysnthesis and effects.
+  website:          https://ccrma.stanford.edu/software/stk
+  license:          Open Source https://ccrma.stanford.edu/software/stk/faq.html
+
+  dependencies:     juce_core
+
+ END_JUCE_MODULE_DECLARATION
+
+*******************************************************************************/
+
 #ifndef __STK_CORE_HEADER__
 #define __STK_CORE_HEADER__
 
